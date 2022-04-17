@@ -1,10 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
+layout: home
 ---
-# Home
 
 *[中級]: ちゅうきゅう
 Welcome to my blog, _Intermediate Mode_, or 中級モード.
