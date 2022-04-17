@@ -1,6 +1,6 @@
 ## Sam Frizzell's Blog
 
-Welcome to (the repository for) my blog, Intermediate Mode. 
+Welcome to (the repository for) my blog, [Intermediate Mode](https://samfrizzell.github.io/).
 
 ### About This Site
 
