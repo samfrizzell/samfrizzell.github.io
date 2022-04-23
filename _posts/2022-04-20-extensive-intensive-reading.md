@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  What Are Extensive Reading and Intensive Reading?
-date:   2022-4-20
-tags:   language-learning
+layout:     post
+title:      What Are Extensive Reading and Intensive Reading?
+date:       2022-4-20
+category:   language-learning
 ---
 
 If you've spent much time in online language learning spaces, you've probably heard the terms _extensive reading_ and _intensive reading_. What do these terms mean, and how should they be used for self-study?
