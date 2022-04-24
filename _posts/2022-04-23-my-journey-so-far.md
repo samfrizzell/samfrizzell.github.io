@@ -9,7 +9,7 @@ _If you'll allow me to talk about myself for a few minutes..._
 
 My interest in Japanese began in high school. Interestingly, I didn't watch much anime as a kid, and I didn't read manga as a preteen. As a teenager, though, I got into Vocaloid music. If you're not familiar with it, I'll place one of the most famous Vocaloid songs below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shs0rAiwsGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container"><iframe loading="lazy" title="YouTube Video Player" src="https://www.youtube.com/embed/shs0rAiwsGQ"></iframe></div>
 
 An aside, if you're interested:
 
