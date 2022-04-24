@@ -10,15 +10,15 @@ navbar_entries:
 
 project_entries:
   - title: Language Learning
-    url: 
+    url: category/language-learning
     desc: View posts in the "language learning" category.
 
   - title: Intriguing Expressions
-    url: 
+    url: category/expressions
     desc: View posts in the "expressions" category.
 
   - title: Personal
-    url: 
+    url: category/personal
     desc: View posts in the "personal" category.
 
 #  - title: Project 4

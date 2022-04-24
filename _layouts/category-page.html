@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<a href="{{ "/" | relative.url }}">{{ site.theme_config.back_home_text }}</a>
+
+<header>
+    <h1>Category: {{ page.title }}</h1>
+</header>
+
+{% capture page-cat %}
+{{ page.category }}
+{% endcapture %}
+
+{% include post-list-cat.html cat=page-cat %}
