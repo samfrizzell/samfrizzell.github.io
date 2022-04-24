@@ -9,7 +9,7 @@ layout: default
 </header>
 
 {% capture page-cat %}
-{{ page.category }}
+{{ page.title | slugify }}
 {% endcapture %}
 
 {% include post-list-cat.html cat=page-cat %}
