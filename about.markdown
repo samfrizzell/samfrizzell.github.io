@@ -8,6 +8,8 @@ permalink: /about/
 -->
 # About Me
 
+<img class="img-left-aligned" src="/images/Gradpic2-280w.png" alt="Photo of me">
+
 My name is Sam Frizzell and I'm a Japanese language enthusiast. I have a Bachelor's degree in Asian Studies and Asian Cultures & Languages (i.e. Japanese), but if I'm honest, I learned more Japanese on my own, through self-study, than I did through my degree.
 
 I'm very passionate about the idea that with enough enthusiasm, time, and the right tools, you too can learn a language such as Japanese! _**Yes, you!**_ I'll be discussing Japanese mostly, as that's my experience, but the techniques I talk about can be applied to other languages as well.
