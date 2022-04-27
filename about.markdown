@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
-
+<!--<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+-->
 # About Me
 
 My name is Sam Frizzell and I'm a Japanese language enthusiast. I have a Bachelor's degree in Asian Studies and Asian Cultures & Languages (i.e. Japanese), but if I'm honest, I learned more Japanese on my own, through self-study, than I did through my degree.

@@ -4,6 +4,12 @@
   <body>
     <main class="page-content" aria-label="Content">
       <div class="w">
+        <header>
+          {% if site.theme_config.show_navbar_always == true %}
+            {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+            <div class="dashed"></div>
+          {% endif %}
+        </header>
         {{ content }}
         {% if site.theme_config.appearance_toggle %}
           {% include toggle_theme_button.html %}
