@@ -1,5 +1,7 @@
 title: Intermediate Mode
-author: Sam Frizzell
+author:
+  name: Sam Frizzell
+  twitter: SamFrizzell11
 url: https://samfrizzell.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   Hi, I'm Sam Frizzell, and this is Intermediate Mode, a blog about Japanese language learning.
@@ -8,8 +10,12 @@ permalink: /:slug
 
 favicon: "./favicon.ico" # relative path to site's favicon
 
+# other custom adds
+logo: /images/logo-300x300.png
+twitter:
+  username: SamFrizzell11
+locale: en_us
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
 theme_config:
