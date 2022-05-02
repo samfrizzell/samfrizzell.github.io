@@ -215,3 +215,10 @@ p code, li code {
   float:left;
   margin-right: 2rem;
 }
+
+@media screen and (max-width: 600px) {
+  img.img-left-aligned {
+    float: none;
+    margin: 0 auto;
+  }
+}
