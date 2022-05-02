@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intriguing Expressions: _katte(ni)_"
+title: "Intriguing Expressions: Katte(ni)"
 date: 2022-5-1
 category: expressions
 ---
