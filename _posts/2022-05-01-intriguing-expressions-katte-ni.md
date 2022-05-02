@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intriguing Expressions: Katte(ni)"
+title: "Intriguing Expressions: <span style='font-style: italic'>Katte(ni)</span>"
 date: 2022-5-1
 category: expressions
 ---
