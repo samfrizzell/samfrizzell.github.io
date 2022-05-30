@@ -22,10 +22,10 @@ project_entries:
     url: category/personal
     desc: View posts in the "personal" category.
 
-#  - title: Project 4
-#    url: 
-#    desc: 
-#    highlight: WIP
+  - title: How To
+    url: category/how-to
+    desc: View posts in the "how to" category.
+
 
 #  - title: Project 5
 #    url: 
