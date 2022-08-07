@@ -2,37 +2,16 @@
 title: Welcome
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+This site showcases Sam Frizzell's work samples.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+Questions or comments? [Send me an email](mailto:samanthafrizzell01@gmail.com).
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+## About Me
 
-### Getting Started
+<img src="/images/headshot.png" class="float-r" alt="Photo of Sam Frizzell">
 
-Getting a message sent is quick and easy with ChatApp:
+I'm a new professional looking to break into the field of technical communication. I graduated from the University of Texas and am currently searching for work in software documentation. After graduating, I pursued continuing education from the [Society for Technical Communication](https://www.stc.org/), and you can see the results of that training on this site.
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+There's nothing more important for technical communicators than understanding both the user and the product, and that's what I intend to do for each project I create. 
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
 
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
