@@ -12,20 +12,7 @@ While this guide uses screenshots from Clip Studio Paint PRO, most interface ele
 
 Previous article: [Introduction to Clip Studio Paint: Tools](/clip-studio-paint-tutorials/tools)
 
-## Contents
-
-* [Keyboard shortcuts](#keyboard-shortcuts)
-* [Common operations](#common-operations)
-* [Tools](#tools)
-* [Clip Studio Paint menu (macOS)](#clip-studio-paint-menu-macos)
-* [File menu](#file-menu)
-* [Edit menu](#edit-menu)
-* [Layer menu](#layer-menu)
-* [Selection menu](#selection-menu)
-* [View menu](#view-menu)
-* [Window menu](#window-menu)
-* [Help menu](#help-menu)
-* [Other shortcuts](#other-shortcuts)
+{% include toc_04.html %}
 
 ## Keyboard shortcuts
 

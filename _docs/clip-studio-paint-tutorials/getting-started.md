@@ -12,13 +12,7 @@ While this guide uses screenshots from Clip Studio Paint PRO, installation and s
 
 Next article: [Introduction to Clip Studio Paint: Palettes](/clip-studio-paint-tutorials/palettes)
 
-## Contents
-
-* [Installing Clip Studio Paint on Windows or macOS](#installing-clip-studio-paint-on-windows-or-macos)
-* [Registering Clip Studio Paint](#registering-clip-studio-paint)
-* [First-time setup: pen pressure settings](#first-time-setup-pen-pressure-settings)
-* [First-time setup: arranging the workspace](#first-time-setup-arranging-the-workspace)
-* [First-time setup: useful settings](#first-time-setup-useful-settings)
+{% include toc_01.html %}
 
 ## Installing Clip Studio Paint on Windows or macOS
 

@@ -14,31 +14,7 @@ Previous article: [Introduction to Clip Studio Paint: Palettes](/clip-studio-pai
 
 Next article: [Introduction to Clip Studio Paint: Keyboard Shortcuts](/clip-studio-paint-tutorials/keyboard-shortcuts)
 
-## Contents
-
-* [Tools](#tools)
-* [Zoom](#zoom)
-* [Move](#move)
-* [Operation](#operation)
-* [Move Layer](#move-layer)
-* [Selection Area](#selection-area)
-* [Auto Select](#auto-select)
-* [Eyedropper](#eyedropper)
-* [Pen](#pen)
-* [Pencil](#pencil)
-* [Brush](#brush)
-* [Airbrush](#airbrush)
-* [Decoration](#decoration)
-* [Eraser](#eraser)
-* [Blend](#blend)
-* [Fill](#fill)
-* [Gradient](#gradient)
-* [Figure](#figure)
-* [Frame Border](#frame-border)
-* [Ruler](#ruler)
-* [Text](#text)
-* [Balloon](#balloon)
-* [Correct Line and Remove Dust](#correct-line-and-remove-dust)
+{% include toc_03.html %}
 
 ## Tools
 

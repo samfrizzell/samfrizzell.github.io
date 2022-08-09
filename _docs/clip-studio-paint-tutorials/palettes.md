@@ -14,38 +14,7 @@ Previous article: [Getting Started in Clip Studio Paint](/clip-studio-paint-tuto
 
 Next article: [Introduction to Clip Studio Paint: Tools](/clip-studio-paint-tutorials/tools)
 
-## Contents
-
-* [Palettes](#palettes)
-* [Tool Palettes](#tool-palettes)
-    * Tool Palette
-    * Sub Tool Palette
-    * Tool Property Palette
-    * Brush Size Palette
-* [Color Palettes](#color-palettes)
-    * Color Wheel Palette
-    * Color Slider Palette
-    * Color Set Palette
-    * Intermediate Color Palette
-    * Approximate Color Palette
-    * Color History Palette
-* [Navigator Palette and related palettes](#navigator-palette-and-related-palettes)
-    * Navigator Palette
-    * Sub View Palette
-    * Item Bank Palette
-    * Information Palette
-* [Layer Property Palette and related palettes](#layer-property-palette-and-related-palettes)
-    * Layer Property Palette
-    * Search Layer Palette
-    * Animation Cels Palette
-* [Layer Palette and related palettes](#layer-palette-and-related-palettes)
-    * Layer Palette
-    * History Palette
-    * Auto Action Palette
-* [Quick Access and Materials Palettes](#quick-access-and-materials-palettes)
-    * Quick Access Palette
-    * Materials Palettes
-* [Timeline Palette](#timeline-palette)
+{% include toc_02.html %}
 
 ## Palettes
 
