@@ -4,7 +4,7 @@ category: Clip Studio Paint Tutorials
 order: 1
 ---
 
-**The author of this guide is not in any way associated with or employed by CELSYS, owner of the program Clip Studio Paint. This guide is for information and demonstration purposes only, and the information is not guaranteed to be correct, up to date, or complete in any way.**
+**The author of this guide is not in any way associated with or employed by CELSYS, owner of the program Clip Studio Paint. This guide is for sample purposes only, and the information is not guaranteed to be correct, up to date, or complete in any way.**
 
 This article only covers installation and setup of Clip Studio Paint, not purchase. For more information about Clip Studio Paint features, see the [next article](/clip-studio-paint-tutorials/palettes) or the [official documentation for Clip Studio Paint](https://www.clip-studio.com/site/gd_en/csp/userguide/csp_userguide/006_new/006_new_0.htm).
 

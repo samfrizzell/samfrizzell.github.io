@@ -4,7 +4,7 @@ category: Clip Studio Paint Tutorials
 order: 2
 ---
 
-**The author of this guide is not in any way associated with or employed by CELSYS, owner of the program Clip Studio Paint. This guide is for information and demonstration purposes only, and the information is not guaranteed to be correct, up to date, or complete in any way.**
+**The author of this guide is not in any way associated with or employed by CELSYS, owner of the program Clip Studio Paint. This guide is for sample purposes only, and the information is not guaranteed to be correct, up to date, or complete in any way.**
 
 This guide provides a basic introduction to some of the features of Clip Studio Paint. If you still need to install and set up Clip Studio Paint, see [Getting Started in Clip Studio Paint](/clip-studio-paint-tutorials/getting-started). For more complete information, see the [official documentation for Clip Studio Paint](https://www.clip-studio.com/site/gd_en/csp/userguide/csp_userguide/006_new/006_new_0.htm).
 
