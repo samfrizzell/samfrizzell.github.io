@@ -8,6 +8,6 @@ This is a quick start guide for a rice cooker that I own, made as homework for a
 
 [View PDF here](/media/Oster-Rice-Cooker-Quick-Start-Guide.pdf).
 
-<img src="/images/other-samples/other_1.png" alt="Page 1 of quick start guide">
+<img src="/images/other-samples/os_1.png" alt="Page 1 of quick start guide">
 
-<img src="/images/other-samples/other_2.png" alt="Page 2 of quick start guide">
+<img src="/images/other-samples/os_2.png" alt="Page 2 of quick start guide">
