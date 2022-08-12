@@ -81,3 +81,5 @@ Launchers contain actions related to the tool being used. For example, the Selec
 
 
 Next article: [Introduction to Clip Studio Paint: Palettes](/clip-studio-paint-tutorials/palettes)
+
+[Back to top](#top)

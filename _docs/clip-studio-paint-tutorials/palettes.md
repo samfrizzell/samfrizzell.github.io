@@ -133,3 +133,5 @@ By default, the Timeline Palette appears minimized at the bottom of the workspac
 Previous article: [Getting Started in Clip Studio Paint](/clip-studio-paint-tutorials/getting-started)
 
 Next article: [Introduction to Clip Studio Paint: Tools](/clip-studio-paint-tutorials/tools)
+
+[Back to top](#top)

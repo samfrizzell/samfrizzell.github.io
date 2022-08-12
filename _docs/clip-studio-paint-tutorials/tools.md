@@ -232,3 +232,5 @@ With Remove Dust, you can remove or select small, dust-like drawn areas or fill 
 Previous article: [Introduction to Clip Studio Paint: Palettes](/clip-studio-paint-tutorials/palettes)
 
 Next article: [Introduction to Clip Studio Paint: Keyboard Shortcuts](/clip-studio-paint-tutorials/keyboard-shortcuts)
+
+[Back to top](#top)

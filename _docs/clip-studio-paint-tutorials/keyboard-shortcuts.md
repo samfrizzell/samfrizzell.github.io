@@ -168,3 +168,5 @@ To view shortcuts usable with palettes and others which can be configured in Sho
 To view shortcuts usable with the layer, mask, and ruler buttons, see the official documentation: [Others](https://www.clip-studio.com/site/gd_en/csp/userguide/csp_userguide/900_shortcut/900_shortcut_other.htm).
 
 Previous article: [Introduction to Clip Studio Paint: Tools](/clip-studio-paint-tutorials/tools)
+
+[Back to top](#top)
